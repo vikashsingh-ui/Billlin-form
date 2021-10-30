@@ -48,8 +48,16 @@
 </div>
 
 <input type="submit" class="btnregister" name="submit" value="Add another"/>
+<div class="form-group">
+<!-- <input type="email" class="form-control"  name="next" value="to bill part" /> -->
+
+</div>
 </div>
 
+</div>
+<br><br>
+<div>
+  <button style="width:400px;">Continue to bill</button>
 </div>
 
 
